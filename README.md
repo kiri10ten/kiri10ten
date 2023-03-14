@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kiruba selvi</h1>
 <h3 align="center">Sorry, I am anti-anecdotal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiri10ten&label=Profile%20views&color=0e75b6&style=flat" alt="kiri10ten" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiriten10&label=Profile%20views&color=0e75b6&style=flat" alt="kiriten10" /> </p>
 
 - 🔭 I’m currently working on **Titanic Machine learning project**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/Kiri#9795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kiri#9795" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
