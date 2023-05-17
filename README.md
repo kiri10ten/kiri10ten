@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 💬 Ask me about **Anything ,I will google for you lol kidding**
+- 💬 Ask me about **Anything ,I will google it for you lol kidding**
 
 - 📫 How to reach me **kirubaselviten@outlook.com**
 
