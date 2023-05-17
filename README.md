@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiriten10&label=Profile%20views&color=0e75b6&style=flat" alt="kiriten10" /> </p>
 
-- 🔭 I’m currently working on **Titanic Machine learning project**
+- 🔭 I’m currently working on **random Machine learning project**
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 💬 Ask me about **Deep learning**
+- 💬 Ask me about **Anything ,I will google for you lol kidding**
 
 - 📫 How to reach me **kirubaselviten@outlook.com**
 
